@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NolanAzuela
 - 👀 I’m interested in GameOfThrones
-- 🌱 I’m currently learning advanced SQL
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on automation
 - 📫 How to reach me: azuelanolan@gmail.com
 
